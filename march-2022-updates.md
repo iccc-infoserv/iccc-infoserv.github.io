@@ -1,11 +1,11 @@
-#March 2023 Updates
+# March 2023 Updates
 
-##Tips
+## Tips
 + Bookmark the Self-Service home page in the browser of your choice, or even your favorite pages. You can log in directly with your TritonPass credentials even after your session expires.
 + Download the Iowa Central Community College App from the Google and Apple stores. The app has quick links to several items, including Self-Service. Selecting this will automatically open it in your browser of choice on the phone.
 + Update your contact information in Self-Service, and verify your text messaging options to receive important alerts
 
-##FAQ
+## FAQ
 + Why am I receiving a notification to update my account information?
 +   To help keep our information up to date we are asking everyone, including staff and students to verify their recovery email addresses and contact information every 180 days
 + How do I Favorite something?
@@ -15,9 +15,9 @@
 + Why don’t I see my Employee’s listed when looking at Time Approval?
 +   Make sure you don’t have any filters selected on your time approval page.
    
-##What's New
+## What's New
 + Add / Update your employee direct deposit accounts directly from Self-Service
-+ You now have the ability to update your direct deposit accounts for your paycheck directly within Self-Service.
++  You now have the ability to update your direct deposit accounts for your paycheck directly within Self-Service.
 + Improved tracking and documentation for our High School recruits
 + Time Entry has been updated to connect with Leave Requests
 + Leaves that conflict with College closures will display in your Leaves when requesting and approving. This is directly connected with the Campus Calendar in Self-Service.
@@ -28,8 +28,8 @@
 + New in Fall 2022, mobile-friendly updates for student withdrawal pages
 + Faculty can reset a Gradebook (without any scores entered) to start over without contacting anyone.
 
-##What's Coming
-###Planned
+## What's Coming
+### Planned
 + Improvements to Supervisor Leave Approvals and processing
 + Visual and workflow improvements for Scholastic Dishonesty documentation for our Faculty and Staff
 + Adjustments to Professional Development Reminders
@@ -39,7 +39,7 @@
 + New functionality to help with date setting and linking between Canvas and Gradebook
 + Improved transparency around uptime and server statuses. ETA unknown.
 + Various other improvements and adjustments
-###In the Pipeline
+### In the Pipeline
 + Student Document Requests and Uploads for our Nursing Programs - saving both the College and Students Money
 + Student Cohort Tracking for some of our Credit and Non-Credit Students
 + P-Card requests and approvals via Self-Service
